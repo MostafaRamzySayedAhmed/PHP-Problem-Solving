@@ -1,2 +1,1 @@
-# PHP Problem Solving
-Competitive Programming Using PHP.
+Practical Exercising on Solving Real-World Problems Using PHP.
